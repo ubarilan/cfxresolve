@@ -1,0 +1,14 @@
+@import url('https://cdn.jsdelivr.net/npm/semantic-ui@2.4.1/dist/semantic.min.css');
+
+.pfp {
+    margin-top: 5%;
+    margin-bottom: -8%;
+    border-radius: 10px;
+}
+
+footer {
+    position: absolute;
+    padding-top: -1000px;
+    bottom: 3%;
+    margin-left: 50%;
+}
